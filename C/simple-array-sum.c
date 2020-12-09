@@ -11,15 +11,15 @@ char** split_string(char*);
 
 
 int simpleArraySum(int ar_count, int* ar) {
-     int SIZE;
-     int sum = 0;
-     scanf("%d", &SIZE);
-     int list[SIZE];
-    for (int i=0; i < SIZE; i++) {
-        scanf("%d", &list[i]);
-        sum += list[i];
+
+    int sum = 0;
+
+    for(int count = 0; count < ar_count; count++) {
+        sum = sum + ar[count];
     }
+
     return sum;
+
     
 
 }
