@@ -20,3 +20,4 @@
 |Python|C|Java|
 |:---|:---|:---|
 |||[If-Else](https://www.hackerrank.com/challenges/java-if-else/problem) - [Solution](Java/java-if-else.java)|
+|||[Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) - [Solution](Java/stdin-stdout-I.java)|
