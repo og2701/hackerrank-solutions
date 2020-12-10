@@ -11,3 +11,4 @@
 |[Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem)   |   [Python 3](Python/finding-the-percentage.py)    |
 |[2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem)   |   [Python 3](Python/2D-array-DS.py)    | 
 |[Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem)   |   [Python 3](Python/arrays-left-rotation.py), [C](C/arrays-left-rotation.c)    |  
+|[Birthday cake candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)|[C](C/birthday-cake-candles.c)|
