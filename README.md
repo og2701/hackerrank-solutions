@@ -23,5 +23,5 @@
 |Python|C|Java|
 |:---|:---|:---|
 |[Merge the tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem) (Medium) - [Solution](Python/merge-the-tools.py)||[If-Else](https://www.hackerrank.com/challenges/java-if-else/problem) (Easy) - [Solution](Java/java-if-else.java)|
-|||[Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) (Easy) - [Solution](Java/stdin-stdout-I.java)|
+|[Set .discard(), .remove(), .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem) (Easy) - [Solution](Python/set-discard-remove-pop.py)||[Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) (Easy) - [Solution](Java/stdin-stdout-I.java)|
 |||[Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem) (Easy) - [Solution](Java/stdin-stdout-II.java)|
