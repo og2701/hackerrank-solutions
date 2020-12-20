@@ -22,6 +22,6 @@
 **Language specific challenges**
 |Python|C|Java|
 |:---|:---|:---|
-|||[If-Else](https://www.hackerrank.com/challenges/java-if-else/problem) - [Solution](Java/java-if-else.java)|
-|||[Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) - [Solution](Java/stdin-stdout-I.java)|
-|||[Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem) - [Solution](Java/stdin-stdout-II.java)|
+|||[If-Else](https://www.hackerrank.com/challenges/java-if-else/problem) (Easy) - [Solution](Java/java-if-else.java)|
+|||[Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) (Easy) - [Solution](Java/stdin-stdout-I.java)|
+|||[Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem) (Easy) - [Solution](Java/stdin-stdout-II.java)|
