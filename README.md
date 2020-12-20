@@ -2,7 +2,7 @@
 **Problem solving challenges**
 |Challenge|Solution|Difficulty|
 |:--------|:-------|:---------|
-|[Solve me first](https://www.hackerrank.com/challenges/solve-me-first/problem)|[C](C/solve-me-first.c), [Java](Java/solve-me-first.java)|![#f03c15](Easy)|
+|[Solve me first](https://www.hackerrank.com/challenges/solve-me-first/problem)|[C](C/solve-me-first.c), [Java](Java/solve-me-first.java)|Easy|
 |[Simple array sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)|[C](C/simple-array-sum.c)|Easy|
 |[Compare the triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)   |   [C](C/compare-the-triplets.c)    |Easy|
 |[A very big sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem)   |   [C](C/a-very-big-sum.c)    |Easy|
