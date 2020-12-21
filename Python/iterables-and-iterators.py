@@ -1,8 +1,6 @@
 from itertools import combinations
 
-len_ = int(input())
-letters = input().split()
-k = int(input())
+len_, letters, k = int(input()), input().split(), int(input())
 
 num = 0
 den = 0
