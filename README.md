@@ -28,6 +28,7 @@
 
 |C|
 |:---|
+|[Printing patterns with loops](https://www.hackerrank.com/challenges/printing-pattern-2/problem) (Medium) - [Solution](C/printing-patterns-with-loops.c)|
 
 |Java|
 |:---|
