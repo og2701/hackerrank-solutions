@@ -40,4 +40,4 @@
 **30 Days of Code**
 |Day|Language|
 |:---|:---|
-|0|[Python 3](Python/30-Days-of-Code/Day-0.py), [C](C/30-Days-of-Code/Day-0.c), [Java](Java/30-Days-of-Code/Day-0.java), [Javascript](Javascript/30-Days-of-Code/Day-0.js), [C++](C++/30-Days-of-Code/Day-0.cpp), [BASH](BASH/30-Days-of-Code/Day-0.sh), [C#](C#/30-Days-of-Code/Day-0.cs), [Ruby](Ruby/30-Days-of-Code/Day-0.rb)|
+|0|[Python 3](Python/30-Days-of-Code/Day-0.py), [C](C/30-Days-of-Code/Day-0.c), [Java](Java/30-Days-of-Code/Day-0.java), [Javascript](Javascript/30-Days-of-Code/Day-0.js), [C++](C++/30-Days-of-Code/Day-0.cpp), [BASH](BASH/30-Days-of-Code/Day-0.sh), [C#](C\#/30-Days-of-Code/Day-0.cs), [Ruby](Ruby/30-Days-of-Code/Day-0.rb)|
