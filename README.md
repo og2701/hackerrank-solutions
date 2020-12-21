@@ -37,7 +37,8 @@
 |[Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) (Easy) - [Solution](Java/stdin-stdout-I.java)|
 |[Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem) (Easy) - [Solution](Java/stdin-stdout-II.java)|
 
-**30 Days of Code**
+**30 Days of Code** (21/12/2020 to 20/01/2021)
 |Day|Language|
 |:---|:---|
 |0|[Python 3](Python/30-Days-of-Code/Day-0.py), [C](C/30-Days-of-Code/Day-0.c), [Java](Java/30-Days-of-Code/Day-0.java), [Javascript](Javascript/30-Days-of-Code/Day-0.js), [C++](C++/30-Days-of-Code/Day-0.cpp), [BASH](BASH/30-Days-of-Code/Day-0.sh), [C#](C(sharp)/30-Days-of-Code/Day-0.cs), [Ruby](Ruby/30-Days-of-Code/Day-0.rb)|
+
