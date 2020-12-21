@@ -37,4 +37,5 @@
 |[Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) (Easy) - [Solution](Java/stdin-stdout-I.java)|
 |[Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem) (Easy) - [Solution](Java/stdin-stdout-II.java)|
 
+**30 Days of Code**
 
