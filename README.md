@@ -25,6 +25,7 @@
 |[Merge the tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem) (Medium) - [Solution](Python/merge-the-tools.py)|
 |[Set .discard(), .remove(), .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem) (Easy) - [Solution](Python/set-discard-remove-pop.py)|
 |[Time delta](https://www.hackerrank.com/challenges/python-time-delta/problem) (Medium) - [Solution](Python/time-delta.py)|
+|[Iterables and iterators](https://www.hackerrank.com/challenges/iterables-and-iterators/problem) (Medium) - [Solution](Python/iterables-and-iterators.py)|
 
 |C|
 |:---|
