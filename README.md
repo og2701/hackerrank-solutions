@@ -41,4 +41,5 @@
 |Day|Language|
 |:---|:---|
 |[0](https://www.hackerrank.com/challenges/30-hello-world/problem)|[Python 3](Python/30-Days-of-Code/Day-0.py), [C](C/30-Days-of-Code/Day-0.c), [Java](Java/30-Days-of-Code/Day-0.java), [Javascript](Javascript/30-Days-of-Code/Day-0.js), [C++](C++/30-Days-of-Code/Day-0.cpp), [C#](C(sharp)/30-Days-of-Code/Day-0.cs), [Ruby](Ruby/30-Days-of-Code/Day-0.rb)|
+|[1](https://www.hackerrank.com/challenges/30-data-types/problem)|[Python 3](Python/30-Days-of-Code/Day-1.py), [C](C/30-Days-of-Code/Day-1.c), [Java](Java/30-Days-of-Code/Day-1.java), [Javascript](Javascript/30-Days-of-Code/Day-1.js), [C++](C++/30-Days-of-Code/Day-1.cpp), [C#](C(sharp)/30-Days-of-Code/Day-1.cs), [Ruby](Ruby/30-Days-of-Code/Day-1.rb)|
 
