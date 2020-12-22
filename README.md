@@ -40,5 +40,5 @@
 **30 Days of Code** (21/12/2020 to 19/01/2021)
 |Day|Language|
 |:---|:---|
-|[0](https://www.hackerrank.com/challenges/30-hello-world/problem)|[Python 3](Python/30-Days-of-Code/Day-0.py), [C](C/30-Days-of-Code/Day-0.c), [Java](Java/30-Days-of-Code/Day-0.java), [Javascript](Javascript/30-Days-of-Code/Day-0.js), [C++](C++/30-Days-of-Code/Day-0.cpp), [BASH](BASH/30-Days-of-Code/Day-0.sh), [C#](C(sharp)/30-Days-of-Code/Day-0.cs), [Ruby](Ruby/30-Days-of-Code/Day-0.rb)|
+|[0](https://www.hackerrank.com/challenges/30-hello-world/problem)|[Python 3](Python/30-Days-of-Code/Day-0.py), [C](C/30-Days-of-Code/Day-0.c), [Java](Java/30-Days-of-Code/Day-0.java), [Javascript](Javascript/30-Days-of-Code/Day-0.js), [C++](C++/30-Days-of-Code/Day-0.cpp), [C#](C(sharp)/30-Days-of-Code/Day-0.cs), [Ruby](Ruby/30-Days-of-Code/Day-0.rb)|
 
