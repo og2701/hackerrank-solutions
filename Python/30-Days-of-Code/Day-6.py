@@ -13,3 +13,11 @@ if __name__ == '__main__':
     for i in range(n):
         s = input()
         even_odd_indexes(s)
+
+        
+#Alternatively:
+##if __name__ == '__main__':
+##    n = int(input())
+##    for i in range(n):
+##        s = input()
+##        print(s[::2],s[1::2])
