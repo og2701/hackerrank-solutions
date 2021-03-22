@@ -18,6 +18,7 @@
 |[The longest increasing subsequence](https://www.hackerrank.com/challenges/longest-increasing-subsequent/problem)|[Python 3](Python/longest-increasing-subsequence.py)|Advanced|
 |[Extra long factorials]()|[Python 3](Python/extra-long-factorials.py), [C](C/extra-long-factorials.c), [Java](Java/extra-long-factorials.java)|Medium|
 |[Grading students](https://www.hackerrank.com/challenges/grading/problem)|[Python 3](Python/grading-students.py)|Easy|
+|[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)|[Python 3](Python/apple-and-orange.py)|Easy|
 
 **Language specific challenges**
 |Python|
