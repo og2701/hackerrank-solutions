@@ -38,6 +38,11 @@
 |[Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) (Easy) - [Solution](Java/stdin-stdout-I.java)|
 |[Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem) (Easy) - [Solution](Java/stdin-stdout-II.java)|
 
+**Data Structures**
+|Challenge|Language|
+|:--------|:-------|
+|[Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem)|[C](C/Data-Structures/arrays-ds.c)|
+
 **30 Days of Code**
 |Day|Language|
 |:---|:---|
